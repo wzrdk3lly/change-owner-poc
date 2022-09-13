@@ -1,0 +1,14 @@
+{
+  "name": "template-folder",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "build": "cargo build",
+    "clean": "cargo clean",
+    "fix": "cargo fix",
+    "test": "cargo test -- --nocapture"
+  },
+  "author": "",
+  "license": "ISC"
+}
